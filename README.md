@@ -1,5 +1,8 @@
 # 📊 End-to-End Sales Data Analytics Project
 
+<img width="935" height="527" alt="Screenshot 2026-02-05 at 5 48 14 PM" src="https://github.com/user-attachments/assets/4d0a46da-25fb-4c7b-82ed-5133b275bdd0" />
+
+
 ### Sales Analysis Using Python, MySQL & Power BI
 
 ## 🚀 Project Overview
